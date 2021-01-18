@@ -18,9 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpeg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne:
+    'I am a Graduate student at University of New Brunswick pursuing my Masters in Computer Science.I am passionate about creating high-quality, scalable, predictable and high performance web applications. My priorities are excellent client service, enhanced security and respecting user privacy. With a broad skill set covering important facets in the technology space, I am looking for an exciting internship or coop opportunity in the same for Fall 2021. Please feel free to contact me at prateekgurnani10@gmail.com.',
   resume: '', // if no resume, the button will not show up
 };
 
@@ -59,7 +58,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'mailto:prateegurnani10@gmail.com',
 };
 
 // FOOTER DATA
