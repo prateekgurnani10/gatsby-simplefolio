@@ -29,7 +29,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'C01',
-    info: '',
+    info: 'This is the first assignment',
     info2: '',
     url:
       'https://colab.research.google.com/drive/1D5pxCMSYkKig0PUbVs3oueUJ6enowxBa#scrollTo=4fEEVWlfX4_F',
