@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, My name is',
   name: 'Prateek Gurnani',
-  subtitle: 'I am a Full Stack Developer',
+  subtitle: 'I am a Graduate Student',
   cta: 'Know more',
 };
 
@@ -28,11 +28,12 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
+    title: 'C01',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url:
+      'https://colab.research.google.com/drive/1D5pxCMSYkKig0PUbVs3oueUJ6enowxBa#scrollTo=4fEEVWlfX4_F',
+    repo: 'https://gist.github.com/prateekgurnani10/a3161eb9c4514b44259bb3910b3cd759', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -41,7 +42,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
