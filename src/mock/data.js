@@ -37,12 +37,13 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'gist2.png',
+    title: 'A01',
+    info: 'Diamond price prediction',
     info2: '',
-    url: '',
-    repo: '', // if no repo, the button will not show up
+    url:
+      'https://colab.research.google.com/drive/1E_e5BsX74aWLWHWXD1-ugMV4wNygQXbo#scrollTo=OScPVcqnykxx',
+    repo: 'https://gist.github.com/prateekgurnani10/22cb1f7712dd55f6dd1a6b6b34f1387c', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
