@@ -47,12 +47,13 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'gist3.png',
+    title: 'C02',
+    info: 'Weekly class Activity',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url:
+      'https://colab.research.google.com/drive/123_I4X-BKKbcssyUeOEPgF5RO34bAuDo#scrollTo=oYcnYQKcFPjO',
+    repo: 'https://gist.github.com/prateekgurnani10/204837a4ca566bdac4f1ddc79c87eac9', // if no repo, the button will not show up
   },
 ];
 
