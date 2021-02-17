@@ -65,6 +65,16 @@ export const projectsData = [
       'https://colab.research.google.com/drive/1vgbwiou6LUqhgQX4_zbAO9Ac__kF_8x3#scrollTo=6DFlB67G3p4L',
     repo: 'https://gist.github.com/prateekgurnani10/3691e4f274f8643df3060cc907ab4941', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'gist5.png',
+    title: 'C05',
+    info: 'Weekly class Activity',
+    info2: '',
+    url:
+      'https://colab.research.google.com/drive/1QQCRI_Bc385-U1w9e2k3OUMiH59E0-ZV#scrollTo=78G1xpe4hwlG',
+    repo: 'https://gist.github.com/prateekgurnani10/39d8d2a65e7f6718adb97a18cf4826c7', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
