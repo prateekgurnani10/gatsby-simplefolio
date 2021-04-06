@@ -77,13 +77,23 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'gist8.png',
-    title: 'C08',
+    img: 'gist10.png',
+    title: 'C10',
     info: 'Weekly class Activity',
     info2: '',
     url:
       'https://colab.research.google.com/drive/1Bb4f4spgBCS4rpUkXPBK4a01OR53svaK#scrollTo=mTwsgz0QnbAq',
     repo: 'https://gist.github.com/prateekgurnani10/5eb7c40acfba0784c5a7087d0f6b5d6a', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'gist8.png',
+    title: 'C10',
+    info: 'Weekly class Activity',
+    info2: '',
+    url:
+      'https://colab.research.google.com/drive/1DrwBytoNU3lZ4vsI1p45a_VJVfNbOYYo#scrollTo=GhghO7h03itQ',
+    repo: 'https://gist.github.com/prateekgurnani10/c90209cd629983dbb47bc1972288a95e', // if no repo, the button will not show up
   },
 ];
 
