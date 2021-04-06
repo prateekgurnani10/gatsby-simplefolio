@@ -77,8 +77,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'gist10.png',
-    title: 'C10',
+    img: 'gist8.png',
+    title: 'C08',
     info: 'Weekly class Activity',
     info2: '',
     url:
@@ -87,7 +87,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'gist8.png',
+    img: 'gist10.png',
     title: 'C10',
     info: 'Weekly class Activity',
     info2: '',
