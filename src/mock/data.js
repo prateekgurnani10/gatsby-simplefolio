@@ -95,6 +95,16 @@ export const projectsData = [
       'https://colab.research.google.com/drive/1DrwBytoNU3lZ4vsI1p45a_VJVfNbOYYo#scrollTo=GhghO7h03itQ',
     repo: 'https://gist.github.com/prateekgurnani10/c90209cd629983dbb47bc1972288a95e', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'gist11.png',
+    title: 'Individual Project',
+    info: 'EDA and segment analysis for customers in mall.',
+    info2: '',
+    url:
+      'https://colab.research.google.com/drive/19W_1tjmn69pfn2xJy0WpZt9ppccIqlLv#scrollTo=SPJ5UqHBoh1Q',
+    repo: 'https://gist.github.com/prateekgurnani10/09a3f8b3096a52d0ac8d0c0ea46b2742', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
